@@ -1,0 +1,5 @@
+name: default-carrier
+regions:
+  - north
+  - south
+max_weight_kg: 24000
